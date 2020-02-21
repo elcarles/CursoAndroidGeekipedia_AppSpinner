@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">CursoAndroidGeekipedia_AppSpinner</string>
+    <string name="app_name">Spinner</string>
+    <string name="valor1">Ingresa el primer valor</string>
+    <string name="valor2">Ingresa el segundo valor</string>
+    <string name="boton">Calcular</string>
+    <string name="tv_resultado">Resultado</string>
+    <string name="suma">Sumar</string>
+    <string name="resta">Restar</string>
+    <string name="mult">Multiplicar</string>
+    <string name="div">Dividir</string>
 </resources>
